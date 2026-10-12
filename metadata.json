@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Symptom Checker and Triage Assistant",
+  "description": "An educational healthcare innovation prototype demonstrating rule-based NLP symptom extraction, conservative triage safety checks, and emergency warning detection with 100% on-device privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
